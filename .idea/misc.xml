@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.142" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/burger.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/coffe.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/french.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/fruite.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/homepage.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/item_list.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/item_makanan.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/juice.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/menudrink.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/menufood.xml" value="0.25" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/mineral.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/order_burger.xml" value="0.16666666666666666" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/order_coffe.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/order_french.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/order_fruite.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/order_juice.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/order_mineral.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/order_pizza.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/order_spaghetti.xml" value="0.16666666666666666" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/pizza.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/sign_in.xml" value="0.22" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/sign_up.xml" value="0.22" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/spaghetti.xml" value="0.16666666666666666" />
+        <entry key="..\:/LabCheva/KedaiKopi/app/src/main/res/layout/splahscreen.xml" value="0.2" />
+        <entry key="..\:/LabCheva/KedaiKopi4/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/LabCheva/KedaiKopi4/app/src/main/res/layout/sign_up.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
